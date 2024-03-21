@@ -2,6 +2,11 @@
 <h3 align="center">A Software QA Specialist from Türkiye</h3>
 
 <h3 align="center" >Connect with me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yunusemrebolukbas/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <a href="https://medium.com/@yunusemrebolukbas"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  /></a>
+  
+</div>
 <p align="left">
 </p>
 

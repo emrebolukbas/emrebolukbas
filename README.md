@@ -32,8 +32,8 @@
   <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="images/swagger.png" alt="swagger" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">Design and Project Management Tools:</h3>
+<h3 align="center">Project Management and Design Tools:</h3>
 <p align="center">
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="images/jira.png" alt="jira" width="auto" height="40"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="images/jirasoftware.png" alt="jira" width="auto" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 </p>

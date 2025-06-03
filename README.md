@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yunus Emre</h1>
+<h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A Software QA Specialist from Türkiye</h3>
 
 <h3 align="center" >Connect with me:</h3>
